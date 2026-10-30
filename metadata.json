@@ -1,0 +1,6 @@
+{
+  "name": "CropDoctor AI",
+  "description": "AI Plant Pathologist & Agricultural Assistant for Ethiopian Farmers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
